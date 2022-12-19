@@ -3,10 +3,6 @@
 Setup for local Windows 11 pro machine with WSL 2 and other features,
 contains configuration files and scripts.
 
-<hr />
-
-<br />
-
 # Contents
 
 ## [Configs](./configs/README.md)

@@ -2,10 +2,6 @@
 
 Scripts for WSL2 configuration.
 
-<hr />
-
-<br />
-
 # Contents
 
 ## [fix_dns.sh](./fix_dns.sh)

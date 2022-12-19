@@ -2,10 +2,6 @@
 
 Configuration files used during the execution of the setup scripts.
 
-<hr />
-
-<br />
-
 # Contents
 
 ## [resolv.conf](./resolv.conf)
